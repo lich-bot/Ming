@@ -1,4 +1,4 @@
-:tocdepth: 2
+:tocdepth: 4
 
 =============================
 Welcome to Ming Documentation
